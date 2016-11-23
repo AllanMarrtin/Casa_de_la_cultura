@@ -50,6 +50,7 @@
     <Compile Include="Datos\DaoAlumnos.cs" />
     <Compile Include="Datos\DaoAulas.cs" />
     <Compile Include="Datos\DaoInstructores.cs" />
+    <Compile Include="Datos\DAO_Cursos.cs" />
     <Compile Include="Datos\metodos_Datos.cs" />
     <Compile Include="Pojos\clsAlumnos.cs" />
     <Compile Include="Pojos\clsAulas.cs" />

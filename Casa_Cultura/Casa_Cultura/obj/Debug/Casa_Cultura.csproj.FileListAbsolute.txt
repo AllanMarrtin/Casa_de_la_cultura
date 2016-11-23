@@ -60,3 +60,21 @@ C:\Users\ike\Desktop\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.csproj.Gen
 C:\Users\ike\Desktop\Casa_Cultura\Casa_Cultura\bin\Debug\Casa_Cultura.exe
 C:\Users\ike\Desktop\Casa_Cultura\Casa_Cultura\bin\Debug\Casa_Cultura.pdb
 C:\Users\ike\Desktop\Casa_Cultura\Casa_Cultura\bin\Debug\MySql.Data.dll
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\bin\Debug\Casa_Cultura.exe.config
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.exe
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.pdb
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.csprojResolveAssemblyReference.cache
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Presentacion.Alumnos.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Presentacion.Aulas.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Presentacion.Cursos.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Presentacion.Inscripciones.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Presentacion.Instructores.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Login.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Presentacion.MenuPrincipal.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Presentacion.clsUsuarios.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Presentacion.Ver_Cursos.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.Properties.Resources.resources
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\obj\Debug\Casa_Cultura.csproj.GenerateResource.Cache
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\bin\Debug\Casa_Cultura.exe
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\bin\Debug\Casa_Cultura.pdb
+C:\Users\ike\Desktop\Proyecto de BD\Casa_de_la_cultura\Casa_Cultura\Casa_Cultura\bin\Debug\MySql.Data.dll
